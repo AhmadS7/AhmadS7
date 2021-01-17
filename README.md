@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmad</h1>
+<h3 align="center">I'm a Front-End Developer.</h3>
 
-<!--
-**AhmadS7/AhmadS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🚇 2021 Goals: Master React, Complete MERN Stack. 
+- 🛹 Currently learning: NextJS, NodeJS and Firebase.
+- ⚡ Fun fact: I'm a person who enjoys learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Technologies I use:
+
+ <img src='https://github.com/Ax-dex/Ax-dex/blob/main/Icons/react.svg' alt='React.js' width='70' />  <img src='https://github.com/Ax-dex/Ax-dex/blob/main/Icons/nodejs.svg' alt='Node.js' width='70' />  <img src='https://github.com/Ax-dex/Ax-dex/blob/main/Icons/javascript.svg' alt='JavaScript' width='70' />  <img src='https://github.com/Ax-dex/Ax-dex/blob/main/Icons/mongodb.svg' alt='MongoDB' width='70' />
+
+
+<br />
+<br />
+
+---
