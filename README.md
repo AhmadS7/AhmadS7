@@ -7,6 +7,9 @@
 
 - ⚡ Fun fact: I'm a person who enjoys learning.
 
+- 💬 Ask me about **anything!**
+
+- 📫 How to reach me **chromeshah@gmail.com**
 
 ### Technologies I use:
 
