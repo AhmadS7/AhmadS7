@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">I'm a Front-End Developer.</h3>
 
-- 🚇 2021 Goals: Master React, Complete MERN Stack. 
+- 🚇 2021 Goals: **Master React, Complete MERN Stack**. 
 
-- 🛹 Currently learning: NextJS, NodeJS and Firebase.
+- 🛹 Currently learning: **NextJS, NodeJS and Firebase**.
 
 - ⚡ Fun fact: I'm a person who enjoys learning.
 
