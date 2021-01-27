@@ -4,7 +4,7 @@
 
 - 🚇 2021 Goals: **Master React, Complete MERN Stack**. 
 
-- 🛹 Currently learning: **Typescript, NextJS, NodeJS and Firebase**.
+- 🛹 Currently learning: **TypeScript, NextJS, NodeJS and Firebase**.
 
 - ⚡ Fun fact: **I'm a person who enjoys learning**.
 
