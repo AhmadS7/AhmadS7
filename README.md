@@ -16,7 +16,7 @@
 
 ### Technologies I use:
 
- <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/react.svg' alt='React.js' width='70' /> <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/typescript.svg' alt='TypeScript' width='70' />  <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/nodejs.svg' alt='Node.js' width='70' />  <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/javascript.svg' alt='JavaScript' width='70' /> <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/tailwind-css-2.svg' alt='TailwindCSS' width='70' />  <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/go-6.svg' alt='GOLang' width='70' /> <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/mongodb.svg' alt='MongoDB' width='70' />
+ <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/react.svg' alt='React.js' width='70' /> <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/typescript.svg' alt='TypeScript' width='70' />  <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/nodejs.svg' alt='Node.js' width='70' />  <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/javascript.svg' alt='JavaScript' width='70' /> <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/mongodb.svg' alt='MongoDB' width='70' /> <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/tailwind-css-2.svg' alt='TailwindCSS' width='70' />  <img src='https://github.com/AhmadS7/Ax-dex/blob/main/Icons/go-6.svg' alt='GOLang' width='70' /> 
 
 
 <br />
