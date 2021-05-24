@@ -4,9 +4,9 @@
 
 - 🚇 2021 Goals: **React native, Complete MERN Stack**. 
 
-- 🛹 Currently learning: **Golang, React native, NodeJS**.
+- 🛹 Currently learning: **Golang, React native**.
 
-- 🎫 Technologies: **React, TypeScript, NextJS, JavaScript, Tailwind CSS**
+- 🎫 Technologies: **React, TypeScript, NextJS, JavaScript, Tailwind CSS, Material-UI**
 
 - ⚡ Fun fact: **I'm a person who enjoys learning**.
 
