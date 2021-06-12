@@ -6,7 +6,7 @@
 
 - 🛹 Currently learning: **Golang, React native**.
 
-- 🎫 Technologies: **React, TypeScript, NextJS, JavaScript, Python, Tailwind CSS, Material-UI**
+- 🎫 Technologies: **React, TypeScript, NextJS, JavaScript, PostgreSQL, Python, Tailwind CSS, Material-UI**
 
 - ⚡ Fun fact: **I'm a person who enjoys learning**.
 
