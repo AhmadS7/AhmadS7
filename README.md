@@ -1,10 +1,10 @@
 <!--- ### <div align="center"> Hi there 👋 I'm Ahmad </div> -->
 <div align="center">
 
-# Hi there, i'm Ahmad!
+# Hi there, I'm Ahmad!
 
  ⚡ C++ / C / Java / Python / JavaScript / TypeScript / Go / Ruby / Rust 
- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chromeshah@gmail.com)](mailto:chromeshah@gmail.com)
+ ### 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chromeshah@gmail.com)](mailto:chromeshah@gmail.com)
 
 
 ---
@@ -14,7 +14,7 @@
 
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<!-- <table align="center">
   <tr>
    <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
@@ -36,10 +36,10 @@
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
       <br>Java
     </td>
-<!--         <td align="center" width="85">
+        <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
       <br>Jenkins
-    </td> -->
+    </td>
        <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
       <br>Docker
@@ -53,5 +53,13 @@
       <br>Git
     </td>
   </tr>
-</table>
+</table> -->
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,typescript,terraform,aws,spring,angular,vuejs,rust,prometheus,jenkins,git,kubernetes,docker,cpp,vim" />
+  </a>
+</p>
+</div>
+
 </div>
